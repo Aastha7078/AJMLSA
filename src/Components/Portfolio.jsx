@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Retro Music WebApp",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Music Web application",
+    url: "https://github.com/Aastha7078/Retro-Music.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ecommerce Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Lists products with their price",
+    url: "https://github.com/Aastha7078/ecommerce-website.git",
   },
   {
-    title: "My Resume Site",
+    title: "URL",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "URL Shortner",
+    url: "https://github.com/Aastha7078/url.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Portfolio Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "About me",
+    url: "https://github.com/Aastha7078/Portfolio-website.git",
   },
 ];
 
